@@ -175,7 +175,7 @@ Honing my analytical skills is a never ending journey hence i'm open to suggesti
 I'm also willing to guide other participants in this project.
 
 
-You can reach out to me on Twitter @Moonlight17BC | email: digitaladspaces@gmail.com | ernestizu@gmail.com 
+You can reach out to me on Twitter [@Moonlight17BC]| email: [digitaladspaces@gmail.com] | [ernestizu@gmail.com]
 
 
 
