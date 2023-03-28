@@ -1,8 +1,6 @@
 # fifa21-data-cleaning-
 ![image](https://user-images.githubusercontent.com/128243939/228201137-ab395cbf-3dbe-4623-8768-60dbaf83eb7f.png)
 
-![image](https://user-images.githubusercontent.com/128243939/228202507-81506a42-6c13-480e-82d5-03dadd1a1222.png)
-
 A dirty data makes a dirty analysis , so take a walk with me
 
 # Introduction
@@ -15,7 +13,7 @@ My prefered tool for this Data cleaning challenge based on proficiency is Power 
 
 # Data Cleaning Process
 
-![image](https://user-images.githubusercontent.com/128243939/228190392-ab2cec7d-c687-443c-9b94-3b95aee56870.png)
+![image](https://user-images.githubusercontent.com/128243939/228203373-6939b5b0-e8e5-4a8e-8d74-8438c8e4cafc.png)
 
 To ensure data quality , the following approach was used after loading the data , whitespaces were removed by unticking the button from the viewtab
 
