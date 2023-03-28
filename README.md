@@ -18,26 +18,13 @@ To ensure data quality , the following approach was used after loading the data 
 
 <h1 align="center">Whitespaces</h1>
 
-![image](https://user-images.githubusercontent.com/128243939/228192530-774d1c99-393a-4775-8a5b-c8c8bae7c068.png)
-
-
-<div>
-  <![image](https://user-images.githubusercontent.com/128243939/228192581-8b5232d7-4efa-4a2d-9c48-1d0ec9a31fe8.png) />
-  <!![image](https://user-images.githubusercontent.com/128243939/228192836-23a082f6-4b42-4cac-9454-af71fe5ad743.png) />
-</div>
+| Before | After |
+|--------|-------|
+![image](https://user-images.githubusercontent.com/99989624/224610838-f6b78c4b-b204-42d9-b158-f7aeacb6cda8.png) | ![image](https://user-images.githubusercontent.com/99989624/224610689-763b528d-9eed-431a-8b7d-2d5a54abaa32.png)
 
 
 
 
-<div>
-  <img src="<div>
-  <img src="image1.png" alt="Image 1" width="400" height="300" />
-  <img src="image2.png" alt="Image 2" width="400" height="300" />
-</div>
-.png" alt="Image 1" width="400" height="300" />
-  <img src="![image](https://user-images.githubusercontent.com/128243939/228194942-7dd4fddb-9a12-4611-8910-4f51a6abc740.png)
-.png" alt="Image 2" width="400" height="300" />
-</div>
 
 
 
