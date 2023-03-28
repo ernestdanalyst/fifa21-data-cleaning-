@@ -27,9 +27,8 @@ To ensure data quality , the following approach was used after loading the data 
 </div>
 
 <div>
-  <![image](https://user-images.githubusercontent.com/128243939/228193515-cf3abcac-d7c5-480f-8d24-826c8ca98ff6.png)
-="image1.png" alt="Image 1" width="400" height="300" />
-  <![image](https://user-images.githubusercontent.com/128243939/228193622-58adb147-f418-45b1-95ca-0b43fcfae1c2.png)
-="image2.png" alt="Image 2" width="400" height="300" />
+  <img src="image1.png" alt="![image](https://user-images.githubusercontent.com/128243939/228194262-002c91df-e048-4ce9-bdfd-83ceb9b5fb0c.png)" width="400" height="300" />
+  <img src="image2.png" alt="![image](https://user-images.githubusercontent.com/128243939/228194330-0918efa9-4097-4c87-965f-a470b4740df8.png)" width="400" height="300" />
 </div>
+
 
