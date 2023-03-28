@@ -26,3 +26,10 @@ To ensure data quality , the following approach was used after loading the data 
   <!![image](https://user-images.githubusercontent.com/128243939/228192836-23a082f6-4b42-4cac-9454-af71fe5ad743.png) />
 </div>
 
+<div>
+  <![image](https://user-images.githubusercontent.com/128243939/228193515-cf3abcac-d7c5-480f-8d24-826c8ca98ff6.png)
+="image1.png" alt="Image 1" width="400" height="300" />
+  <![image](https://user-images.githubusercontent.com/128243939/228193622-58adb147-f418-45b1-95ca-0b43fcfae1c2.png)
+="image2.png" alt="Image 2" width="400" height="300" />
+</div>
+
