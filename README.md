@@ -23,6 +23,6 @@ To ensure data quality , the following approach was used after loading the data 
 
 <div>
   <![image](https://user-images.githubusercontent.com/128243939/228192581-8b5232d7-4efa-4a2d-9c48-1d0ec9a31fe8.png) />
-  <![image](https://user-images.githubusercontent.com/128243939/228192605-60b35a40-3274-4e56-b6e8-231e2a83e868.png) />
+  <!![image](https://user-images.githubusercontent.com/128243939/228192836-23a082f6-4b42-4cac-9454-af71fe5ad743.png) />
 </div>
 
