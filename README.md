@@ -1,6 +1,5 @@
 # fifa21-data-cleaning-
-![image](https://user-images.githubusercontent.com/128243939/228200322-b14d0330-ac6c-44a6-bb9b-bca0e2c4bc5c.png)
-
+![image](https://user-images.githubusercontent.com/128243939/228201137-ab395cbf-3dbe-4623-8768-60dbaf83eb7f.png)
 A dirty data makes a dirty analysis , so take a walk with me
 
 # Introduction
